@@ -1,1 +1,2 @@
 one print "рабочая версия HW"
+print ("Hello")
