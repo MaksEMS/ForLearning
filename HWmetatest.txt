@@ -1,3 +1,4 @@
 one print "рабочая версия HW"
 print ("Hello")
 print("Hello my dear friend")
+print("Glad to see you")
