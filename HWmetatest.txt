@@ -1,1 +1,1 @@
-one
+one print "рабочая версия HW"
