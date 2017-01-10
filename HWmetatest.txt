@@ -3,3 +3,5 @@ print ("Hello;")
 print("Hello my dear friend;")
 print("Glad to see you;")
 6urok_oshibki: 1 vetka; 2 ignor exe
+7urok/ v feauture vse faili; nebolshie commiti;
+ne ispavl oshibki vo vseh versiyah a delat mergi i otdelniye commiti
